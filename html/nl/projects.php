@@ -10,8 +10,8 @@
     </head>
     <body class='projects-body'>
         <div class='navbar'>
-            <a href='../en/projects.html'><img class='flag' src='../../images/EN_Flag.svg' alt='Look for the EN_Flag.svg'></a>
-            <a href='../nl/index.html'><img class='logo' src='../../images/main-logo.png' alt='Look for the main-logo.png'></a>
+            <a href='../en/projects.php'><img class='flag' src='../../images/EN_Flag.svg' alt='Look for the EN_Flag.svg'></a>
+            <a href='../nl/index.php'><img class='logo' src='../../images/main-logo.png' alt='Look for the main-logo.png'></a>
         </div>
 
         <h1>Mijn Projecten</h1>
