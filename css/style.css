@@ -1,0 +1,86 @@
+.index-body{
+    /* Background Styling */
+    background: url(../images/fleck-white.png),url(/images/bg.svg),#e2718d;
+    background-size: auto, 100vw 100vw, auto;
+    background-repeat: repeat, no-repeat, repeat;
+    background-position: center center, top right, center;
+    font-size: 1em;
+    line-height: 1.5;
+    padding: 1.3333333333rem;
+
+    /* Text Styling */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #4c3d6d;
+}
+.index-body h1{
+    /* Fonting */
+    font-size: 5rem;
+    font-weight: 1000;
+    
+    /* Placement */
+    text-align: center;
+    margin-right: 25vw;
+    margin-top: 25vh;
+}
+.index-body h2{
+    /* Fonting */
+    font-size: 1.8rem;
+    font-weight: 400;
+    
+    /* Placement */
+    text-align: center;
+    margin-top: -3rem;
+    margin-right: 30vw;
+}
+.index-container2 p{
+    /* Fonting */
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+.navbar img {
+    /* Sizing */
+    height: 50px;
+    /* Placement */
+    margin-left: 95%;
+    margin-right: auto;
+}
+.index-container2{
+    /* Placement */
+    width: fit-content;
+    margin-left: 15vw;
+}
+.float-left{
+    /* Placement */
+    float: left;
+}
+.float-right{
+    /* Placement */
+    float: right;
+    margin-left: 1vw;
+}
+.footer{
+    /* Placement */
+    width: fit-content;
+    margin-left: 95%;
+    margin-right: auto;
+}
+.footer img, .footer p{
+    /* Sizing */
+    width: 75px;
+    /* Placement */
+    margin-left: auto;
+    margin-right: auto;
+    /* Padding */
+    padding-top: 1.3333333333rem;
+
+    /* Text Placement */
+    text-align: center;
+    /* Text Sizing */
+    font-size: 1.1rem;
+}
+.footer p{
+    /* Fonting */
+    font-weight: 400;
+    /* Placement */
+    margin-top: -1.4rem;
+}
