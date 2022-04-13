@@ -1,4 +1,4 @@
-.index-body{
+body{
     /* Background Styling */
     background: url(../images/fleck-white.png),url(/images/bg.svg),#e2718d;
     background-size: auto, 100vw 100vw, auto;
@@ -12,6 +12,7 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: #4c3d6d;
 }
+/* ======================== Index Styling ======================== */
 .index-body h1{
     /* Fonting */
     font-size: 5rem;
@@ -32,22 +33,86 @@
     margin-top: -3rem;
     margin-right: 30vw;
 }
+.index-container2{
+    /* Placement */
+    width: fit-content;
+    margin-left: 15vw;
+}
 .index-container2 p{
     /* Fonting */
     font-size: 1.3rem;
     font-weight: 400;
 }
-.navbar img {
+/* ======================== End Index Styling ======================== */
+
+/* ======================== Projects Styling ======================== */
+.projects-body h1{
+    /* Fonting */
+    font-size: 5rem;
+    font-weight: 800;
+    
+    /* Placement */
+    text-align: center;
+    margin-right: 5vw;
+}
+.projects-body .container1 {
+    /* Placement */
+    width: 50%;
+    float: left;
+}
+.projects-body .container2 {
+    /* Placement */
+    width: 50%;
+    float: right;
+}
+.projects-body h2 {
+    /* Fonting */
+    font-size: 1.8rem;
+    font-weight: 700;
+    
+    /* Placement */
+    text-align: center;
+    margin-top: -3rem;
+}
+.projects-body h3 {
+    /* Placement */
+    text-align: center;
+}
+.projects-ul li{
+    /* Placement */
+    text-align: center;
+    margin-left: auto; margin-right:auto;
+    margin-bottom: 2vh;
+    /* Fonting */
+    font-weight: 800;
+    font-size: 1.3rem;
+    list-style-type: none;
+    /* Styling */
+    width: 100%;
+    padding:      10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 25px;
+    background-color: rgb(192, 73, 207);
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+}
+.projects-ul a{
+    /* Fonting */
+    text-decoration: none;
+    color: #4c3d6d;
+}
+/* ======================== Global Styling ======================== */
+.navbar .flag{
     /* Sizing */
     height: 50px;
     /* Placement */
-    margin-left: 95%;
-    margin-right: auto;
+    float: right;
 }
-.index-container2{
+.navbar .logo{
+    /* Sizing */
+    height: 75px;
     /* Placement */
-    width: fit-content;
-    margin-left: 15vw;
+    float: left;
 }
 .float-left{
     /* Placement */
@@ -84,3 +149,4 @@
     /* Placement */
     margin-top: -1.4rem;
 }
+/* ======================== End Global Styling ======================== */
