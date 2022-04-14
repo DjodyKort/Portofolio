@@ -22,7 +22,7 @@
                 <li><a href='https://project-burgerschap1.herokuapp.com/Broncode/HTML/Hoofdpagina_White_EN.php'>Project week 1 - New York Roadtrip</a></li>
                 <li><a href='https://projectweek2.herokuapp.com/'>Project week 2 - The Mine History</a></li>
                 <li><a href='https://projectweek3.herokuapp.com/'>Project week 3 - Religious Dimension</a></li>
-                <li><a href='https://projectweek3.herokuapp.com/'>Project week 4 - The Economic Dimension</a></li>
+                <li><a href='https://projectweek4.herokuapp.com/'>Project week 4 - The Economic Dimension</a></li>
             </ul>
         </div>
         <div class='container2'>

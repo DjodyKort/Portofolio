@@ -22,7 +22,7 @@
                 <li><a href='https://project-burgerschap1.herokuapp.com/'>Project week 1 - New York Rondreis</a></li>
                 <li><a href='https://projectweek2.herokuapp.com/'>Project week 2 - Het Mijnverleden</a></li>
                 <li><a href='https://projectweek3.herokuapp.com/'>Project week 3 - Religieuze Dimensie</a></li>
-                <li><a href='https://projectweek3.herokuapp.com/'>Project week 4 - De Economische Dimensie</a></li>
+                <li><a href='https://projectweek4.herokuapp.com/'>Project week 4 - De Economische Dimensie</a></li>
             </ul>
         </div>
         <div class='container2'>
