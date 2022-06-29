@@ -23,6 +23,7 @@
                 <li><a href='https://projectweek2.herokuapp.com/'>Project week 2 - The Mine History</a> <a href='https://github.com/DjodyKort/Mijnverleden-Project' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
                 <li><a href='https://projectweek3.herokuapp.com/'>Project week 3 - Religious Dimension</a> <a href='https://github.com/DjodyKort/Project-Burgerschap' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
                 <li><a href='https://projectweek4.herokuapp.com/'>Project week 4 - The Economic Dimension</a> <a href='https://github.com/DjodyKort/Project-Economische-Dimensie' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
+                <li><a href='https://projectweek5.herokuapp.com/'>Project week 5 - The Vital Civic week</a> <a href='https://github.com/DjodyKort/Project-Vitale-Burgerschapsweek' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
             </ul>
         </div>
         <div class='container2'>
