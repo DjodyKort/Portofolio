@@ -23,7 +23,7 @@
                 <li><a href='https://projectweek2.herokuapp.com/'>Project week 2 - Het Mijnverleden</a> <a href='https://github.com/DjodyKort/Mijnverleden-Project' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
                 <li><a href='https://projectweek3.herokuapp.com/'>Project week 3 - Religieuze Dimensie</a> <a href='https://github.com/DjodyKort/Project-Burgerschap' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
                 <li><a href='https://projectweek4.herokuapp.com/'>Project week 4 - De Economische Dimensie</a> <a href='https://github.com/DjodyKort/Project-Economische-Dimensie' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
-                <li><a href='https://vista-projectweek5.herokuapp.com/'>Project week 5 - De Vitale Burgerschapsweek</a> <a href='https://github.com/DjodyKort/Project-Vitale-Burgerschapsweek' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
+                <li><a href='https://vista-projectweek5.herokuapp.com/php/index.php'>Project week 5 - De Vitale Burgerschapsweek</a> <a href='https://github.com/DjodyKort/Project-Vitale-Burgerschapsweek' style='float: right'><img height='30px' src='../../images/github-logo.png' alt='Error: Look for the github Logo'></a></li>
 
             </ul>
         </div>
